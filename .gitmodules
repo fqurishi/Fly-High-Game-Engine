@@ -1,0 +1,3 @@
+[submodule "FlyHigh/third"]
+	path = FlyHigh/third
+	url = https://github.com/gabime/spdlog
